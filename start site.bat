@@ -1,5 +1,0 @@
-SET DEBUG=CS465:*
-
-npm start
-
-PAUSE
